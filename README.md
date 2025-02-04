@@ -54,6 +54,9 @@ Source repository: <https://github.com/gintmr/gintmr>
     <!-- self-host in Vercel -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=gintmr&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
 </p>
+<!-- </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gintmr&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+</p> -->
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gintmr&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
