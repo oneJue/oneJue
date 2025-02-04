@@ -30,6 +30,17 @@ Source repository: <https://github.com/gintmr/gintmr>
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20Gintmr!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
+</p>
+<p align="center">
+    <a href="https://gintmr.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-Gintmr's Home-blue?logo=" alt="Gintmr's Home" title="Gintmr's Home" /></a>
+     <!-- https://github.com/badges/shields  -->
+    <!-- <a href="https://github.com/gintmr"><img src="https://img.shields.io/badge/GitHub-gintmr-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/gintmr_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://space.bilibili.com/475570627?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-谢谢老斑鸠鸠鸠-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+     <a href="hdttps://wakatime.com/@gintmr"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>  -->
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <!-- <a href="https://github.com/gintmr"><img src="https://komarev.com/ghpvc/?username=gintmr&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>  -->
+</p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;Welcome to my GitHub Profile！" alt="Hello World" title="Hello World"/>
@@ -55,17 +66,7 @@ Source repository: <https://github.com/gintmr/gintmr>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,pytorch,bash,linux,html,yaml,md,x,youtube,anaconda,canva,chrome,edge,git,cuda,gmail,photoshop,huggingface,notion,obsidian,numpy,java,jupyter,leetcode,,&titles=true" alt="Skill Icons" title="Skill Icons">
-</p>
-<p align="center">
-    <a href="https://gintmr.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-Gintmr's Home-blue?logo=" alt="Gintmr's Home" title="Gintmr's Home" /></a>
-     <!-- https://github.com/badges/shields  -->
-    <!-- <a href="https://github.com/gintmr"><img src="https://img.shields.io/badge/GitHub-gintmr-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/gintmr_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/475570627?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-谢谢老斑鸠鸠鸠-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-     <a href="hdttps://wakatime.com/@gintmr"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>  -->
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <!-- <a href="https://github.com/gintmr"><img src="https://komarev.com/ghpvc/?username=gintmr&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>  -->
-</p>
+
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
