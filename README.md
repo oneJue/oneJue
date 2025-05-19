@@ -76,4 +76,9 @@ Source repository: <https://github.com/gintmr/gintmr>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=F773CE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gintmr&layout=compact&theme=tokyonight)
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintmr&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/refs/heads/main/share/snk.svg
