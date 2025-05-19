@@ -34,12 +34,13 @@ Source repository: <https://github.com/gintmr/gintmr>
 <p align="center">
     <a href="https://gintmr.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-Gintmr's Home-blue?logo=" alt="Gintmr's Home" title="Gintmr's Home" /></a>
      <!-- https://github.com/badges/shields  -->
-    <!-- <a href="https://github.com/gintmr"><img src="https://img.shields.io/badge/GitHub-gintmr-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/gintmr_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://github.com/gintmr"><img src="https://img.shields.io/badge/GitHub-gintmr-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gintmr.github.io"><img src="https://img.shields.io/badge/githubio-My Scholar Page -blue?" alt="GitHubIO" title="Gitee" /></a>
+    <!-- <a href="https://gitee.com/gintmr_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/475570627?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-谢谢老斑鸠鸠鸠-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-     <a href="hdttps://wakatime.com/@gintmr"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>  -->
+     <a href="hdttps://wakatime.com/@gintmr"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a> -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <!-- <a href="https://github.com/gintmr"><img src="https://komarev.com/ghpvc/?username=gintmr&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>  -->
+    <!-- <a href="https://github.com/gintmr"><img src="https://komarev.com/ghpvc/?username=gintmr&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a> 
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -48,7 +49,7 @@ Source repository: <https://github.com/gintmr/gintmr>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gintmr&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=gintmr&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" /> -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=gintmr&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
