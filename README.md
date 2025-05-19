@@ -62,6 +62,12 @@ Source repository: <https://github.com/gintmr/gintmr>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gintmr&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gintmr/gintmr/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gintmr/gintmr/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
@@ -75,10 +81,3 @@ Source repository: <https://github.com/gintmr/gintmr>
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gintmr&layout=compact&theme=tokyonight)
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintmr&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/refs/heads/main/share/snk.svg
