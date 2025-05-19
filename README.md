@@ -44,7 +44,7 @@ Source repository: <https://github.com/gintmr/gintmr>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;Welcome to my GitHub Profile！" alt="Hello World" title="Hello World"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=F773CE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -75,3 +75,5 @@ Source repository: <https://github.com/gintmr/gintmr>
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=F773CE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
