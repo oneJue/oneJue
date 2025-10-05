@@ -77,7 +77,3 @@ Source repository: <https://github.com/oneJue/oneJue>
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,pytorch,bash,linux,html,yaml,md,x,youtube,anaconda,canva,chrome,edge,git,cuda,gmail,photoshop,huggingface,notion,obsidian,numpy,java,jupyter,leetcode,,&titles=true" alt="Skill Icons" title="Skill Icons">
 
-<!-- <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
-</p> -->
