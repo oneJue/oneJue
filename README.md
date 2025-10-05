@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 gintmr
+Copyright (c) 2024 oneJue
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,24 +23,24 @@ SOFTWARE.
 
 ATTENTION:
 
-Source repository: <https://github.com/gintmr/gintmr>
+Source repository: <https://github.com/oneJue/oneJue>
 -->
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20Gintmr!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20oneJue!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 </p>
 <p align="center">
-    <a href="https://gintmr.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-Gintmr's Home-blue?logo=" alt="Gintmr's Home" title="Gintmr's Home" /></a>
+    <!-- <a href="https://oneJue.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-oneJue's Home-blue?logo=" alt="oneJue's Home" title="oneJue's Home" /></a> -->
      <!-- https://github.com/badges/shields  -->
-    <a href="https://github.com/gintmr"><img src="https://img.shields.io/badge/GitHub-gintmr-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gintmr.github.io"><img src="https://img.shields.io/badge/githubio-My Scholar Page -blue?" alt="GitHubIO" title="Gitee" /></a>
-    <!-- <a href="https://gitee.com/gintmr_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://github.com/oneJue"><img src="https://img.shields.io/badge/GitHub-oneJue-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://oneJue.github.io"><img src="https://img.shields.io/badge/githubio-My Scholar Page -blue?" alt="GitHubIO" title="Gitee" /></a>
+    <!-- <a href="https://gitee.com/oneJue_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/475570627?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-谢谢老斑鸠鸠鸠-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-     <a href="hdttps://wakatime.com/@gintmr"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a> -->
+     <a href="hdttps://wakatime.com/@oneJue"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a> -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <!-- <a href="https://github.com/gintmr"><img src="https://komarev.com/ghpvc/?username=gintmr&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a> 
+    <!-- <a href="https://github.com/oneJue"><img src="https://komarev.com/ghpvc/?username=oneJue&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a> 
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -49,29 +49,29 @@ Source repository: <https://github.com/gintmr/gintmr>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=gintmr&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" /> -->
+    <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=oneJue&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" /> -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=gintmr&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=oneJue&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gintmr&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=oneJue&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
 </p>
 <!-- </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gintmr&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oneJue&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p> -->
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gintmr&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=oneJue&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gintmr/gintmr/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gintmr/gintmr/refs/heads/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=gintmr&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=oneJue&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
