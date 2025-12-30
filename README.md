@@ -53,7 +53,7 @@ Source repository: <https://github.com/oneJue/oneJue>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=oneJue&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=oneJue&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-stats-tawny.vercel.app/api?username=oneJue&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
 </p>
 <!-- </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oneJue&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
@@ -71,7 +71,7 @@ Source repository: <https://github.com/oneJue/oneJue>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=oneJue&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy-tawny.vercel..app/?username=oneJue&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
