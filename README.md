@@ -1,79 +1,63 @@
-<!--
-MIT License
-
-Copyright (c) 2024 oneJue
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-ATTENTION:
-
-Source repository: <https://github.com/oneJue/oneJue>
--->
-
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20oneJue!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
-</p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Wanghui%20Qiu&fontSize=80&fontAlign=50&fontAlignY=36&desc=Time%20Series%20Analysis%20%26%20Deep%20Learning&descAlign=50&descSize=24&descAlignY=58&animation=twinkling" alt="Wanghui Qiu" title="Wanghui Qiu"/>
 </p>
 <p align="center">
-    <!-- <a href="https://oneJue.20250130.xyz/"><img src="https://img.shields.io/badge/My Profile-oneJue's Home-blue?logo=" alt="oneJue's Home" title="oneJue's Home" /></a> -->
-     <!-- https://github.com/badges/shields  -->
-    <a href="https://github.com/oneJue"><img src="https://img.shields.io/badge/GitHub-oneJue-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://oneJue.github.io"><img src="https://img.shields.io/badge/githubio-My Scholar Page -blue?" alt="GitHubIO" title="Gitee" /></a>
-    <!-- <a href="https://gitee.com/oneJue_space"><img src="https://img.shields.io/badge/Gitee-谢谢老斑鸠-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/475570627?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-谢谢老斑鸠鸠鸠-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-     <a href="hdttps://wakatime.com/@oneJue"><img src="https://wakatime.com/badge/user/67677d2a-fc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a> -->
+    <!-- https://github.com/badges/shields -->
+    <a href="https://github.com/oneJue"><img src="https://img.shields.io/badge/GitHub-oneJue-181717?style=for-the-badge&logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://oneJue.github.io"><img src="https://img.shields.io/badge/Scholar_Page-oneJue.github.io-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar Page" title="Scholar Page" /></a>
+    <a href="mailto:onehui@stu.ecnu.edu.cn"><img src="https://img.shields.io/badge/Email-onehui@stu.ecnu.edu.cn-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <!-- <a href="https://github.com/oneJue"><img src="https://komarev.com/ghpvc/?username=oneJue&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a> 
+    <a href="https://github.com/oneJue"><img src="https://komarev.com/ghpvc/?username=oneJue&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=5000&color=F773CE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1500&color=A855F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile!;Master%27s+Student+%40+ECNU;Time+Series+Analysis+%26+Deep+Learning" alt="Typing SVG" /></a>
 </p>
+
+## 👨‍🎓 About Me
+
+<img align="right" height="170" src="https://github-readme-stats-tawny.vercel.app/api?username=oneJue&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=8B5CF6&text_color=8B949E&ring_color=8B5CF6" alt="Profile Stats" title="Profile Stats" />
+
+- 🎓 Master's student @ **School of Data Science and Engineering, East China Normal University (ECNU)**
+- 🔬 Member of **Decision Intelligence Lab**, advised by Prof. **Bin Yang**
+- ⏳ Research: **Time Series Analysis & Deep Learning** — foundation / large / multi-modal time series models, time series benchmarking
+- 🏠 Scholar page: [oneJue.github.io](https://oneJue.github.io) &nbsp;·&nbsp; 📫 onehui@stu.ecnu.edu.cn
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt=""/>
+
+## 📊 GitHub Stats
+
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=oneJue&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" /> -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=oneJue&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-stats-tawny.vercel.app/api?username=oneJue&count_private=true&show_icons=true&theme=neon" alt="Streak Stats" title="Streak Stats" />
+    <img height="165" src="https://streak-stats.demolab.com?user=oneJue&theme=transparent&hide_border=true&ring=8B5CF6&fire=C084FC&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8B949E" alt="Streak Stats" title="Streak Stats" />
+    <!-- self-hosted in Vercel: https://github.com/anuraghazra/github-readme-stats -->
+    <img height="165" src="https://github-readme-stats-tawny.vercel.app/api/top-langs/?username=oneJue&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=8B949E" alt="Top Languages" title="Top Languages" />
 </p>
-<!-- </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oneJue&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</p> -->
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=oneJue&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=oneJue&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&color=8B5CF6&line=A78BFA&point=C4B5FD&area_color=8B5CF6" alt="Activity Graph" title="Activity Graph" />
 </p>
-<!-- snake -->
+<!-- snake: generated daily by .github/workflows/snake.yml into the output branch -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oneJue/oneJue/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/oneJue/oneJue/output/github-snake.svg" />
 </picture>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy-tawny.vercel.app/?username=oneJue&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy-tawny.vercel.app/?username=oneJue&theme=algolia&no-bg=true&no-frame=true&column=-1&margin-w=6&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt=""/>
+
+## 🛠️ Tech Stack
+
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,pytorch,bash,linux,html,yaml,md,x,youtube,anaconda,canva,chrome,edge,git,cuda,gmail,photoshop,huggingface,notion,obsidian,numpy,java,jupyter,leetcode,,&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,pytorch,numpy,pandas,scikitlearn,jupyter,bash,linux,git,cuda,anaconda,huggingface,latex,md,yaml,obsidian&perline=9&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="footer"/>
+</p>
